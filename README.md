@@ -8,7 +8,7 @@
 
 Magazine is a theme for every blogger. By focusing on your original content, it makes sure to present your work in a modern way.
 
-## Instalation
+## Installation
 
 You can use this theme in several ways. For example:
 
@@ -20,7 +20,6 @@ You can use this theme in several ways. For example:
 6. Visit `yournickname.github.io`.
 
 If website is not live, try to edit some file and try again.
-
 
 ## Customization
 
