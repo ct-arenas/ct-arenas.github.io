@@ -13,10 +13,10 @@ lang: "en_GB"
 iso-lang: "en"
 
 # Production url.
-url: "https://vllur.github.io/Magazine"
+url: "https://ct-arenas.github.io"
 
 # Part after .com, etc. Use / if none
-baseurl: /Magazine
+baseurl: /
 
 
 #----------------------------------------
