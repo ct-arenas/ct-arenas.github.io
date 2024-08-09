@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Contact
+title: Contáctanos
 permalink: /contact
 ---
 
-- Theme repository: [github.com/vllur/Magazine](https://github.com/vllur/Magazine)
-- Author's website: [vllur.github.io](https://vllur.github.io)
+Agregar más información aquí
+
+
+
+
+P.D.
+Se Kung-Fu

@@ -3,14 +3,14 @@
 #----------------------------------------
 
 # Site title, appears in the browser tab
-title: "Magazine"
+title: "Blog JCF"
 
 # Site description in search engine
-description: "Jekyll theme for every blogger."
+description: "Blog de difusión de conocimiento JCF."
 
 # Language settings for html and seo
-lang: "en_GB"
-iso-lang: "en"
+lang: "es_Es"
+iso-lang: "es"
 
 # Production url.
 url: "https://ct-arenas.github.io"
@@ -34,11 +34,12 @@ collections:
 
 # Index
 index_header: "Blogging with Jekyll"
-index_description: "Magazine is a theme for every blogger. By focusing on your original content, it makes sure to present your work in a modern way."
+index_description: "En este blog, encontrarás artículos y guías prácticas que abordan desde la importancia de los bancos de semillas comunitarios hasta el impacto positivo de las ferias agroecológicas en México."
+
 
 # Footer
 # Available icons: link, youtube, twitter, facebook, linkedin, instagram
-footer_description: Magazine is a theme for every blogger. By focusing on your original content, it makes sure to present your work in a modern way.
+footer_description: Queremos ser un recurso para todos aquellos interesados en aprender, compartir y poner en práctica los principios de la agroecología. Además de ello incluimos nuestras experiencias durante el programa Jóvenes Construyendo el Futuro.
 footer_socials:
   -
     link: "/"
@@ -65,7 +66,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "vllur"
+      author: "ct-arenas"
       img: "https://placekitten.com/1300/600"
       tag: Post
 
