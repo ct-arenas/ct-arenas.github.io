@@ -1,7 +1,7 @@
 ---
 title: Primer post
 published: true
-img: /img/1.jpeg
+img: /img/free-images-1.jpeg
 ---
 
 **¡Hola! Este es el primer post de prueba para el blog.**
