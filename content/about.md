@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre nostros
+title: Acerca de
 permalink: /about
 ---
 

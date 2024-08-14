@@ -1,0 +1,11 @@
+---
+title: Alimentos estratégicos mexicanos
+published: true
+img: /img/8.jpg
+---
+
+Dentro del panorama mexicano se observan múltiples problemas de salud ocasionados por una mala alimentación, los más comunes y que han aumentado significativamente son: desnutrición, anemia, obesidad infantil, síndrome metabólico, diabetes y enfermedades cardiovasculares. Esto nos deja con la incertidumbre de qué podemos hacer para revertir y dar una solución a estos problemas lo antes posible, dado que se están expandiendo de manera exponencial y en ocasiones no tienen cura.
+
+Entre las acciones que pueden ayudar a generar un cambio, se considera aumentar el consumo de vegetales, intensificar la producción sostenible de alimentos y reducir la pérdida y el desperdicio en toda la cadena alimentaria. Además, podemos recurrir a alimentos seguros y saludables, así como a los llamados alimentos estratégicos mexicanos. La diferencia radica en que los alimentos seguros y saludables protegen el ambiente y no agotan los recursos de las generaciones futuras, mientras que los alimentos estratégicos mexicanos son aquellos que se eligen para tomar decisiones alimentarias en cualquier etapa de la vida, con el objetivo de lograr salud ambiental y corporal. Sus características principales incluyen ser de origen mexicano, culturalmente aceptados, producidos de manera limpia y justa, altamente nutritivos, disponibles y accesibles durante todo el año, y con un mínimo nivel de procesamiento.
+
+El consumo de estos alimentos puede complementarse con una dieta sostenible, que se basa en la evaluación de seis variables principales de control: emisiones de gases de efecto invernadero (GEI), uso de la tierra de cultivo, uso del agua, aplicación de nitrógeno, aplicación de fósforo e índice de extinción (mantenimiento de la biodiversidad alrededor de los cultivos). El consumo recurrente de alimentos sostenibles no solo puede contribuir a salvar el planeta y mejorar la salud económica de los países, sino también a prevenir muertes prematuras en adultos.
