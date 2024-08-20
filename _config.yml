@@ -3,7 +3,7 @@
 #----------------------------------------
 
 # Site title, appears in the browser tab
-title: "Blog JCF"
+title: "El escarabajo verde"
 
 # Site description in search engine
 description: "Blog de difusión de conocimiento JCF."
@@ -33,7 +33,7 @@ collections:
     permaling: /:collection/:name
 
 # Index
-index_header: "Agregar un título aquí"
+index_header: "¡Bienvenido al hogar de las mentes curiosas!"
 index_description: "En este blog, encontrarás artículos y guías prácticas que abordan desde la importancia de los bancos de semillas comunitarios hasta el impacto positivo de las ferias agroecológicas en México."
 
 

@@ -8,7 +8,7 @@ De acuerdo con el gen es bueno preservar cambiando o renovando la semilla para q
 
 Un muestrario te ayuda como seguro en caso de una mala cosecha. Tener tu propio banco de semillas te permite sacar y volver a guardar. Los guardianes de esa semilla son principalmente la familia de ahí la importancia de una unidad familiar.
 
-## Durante el proceso de selección de semilla debemos tener una serie de puntos y observaciones que nos permitan obtener los mejores resultados para el proximo clclo de cosecha:
+## Durante el proceso de selección de semilla debemos tener presentes una serie de puntos y observaciones que nos permitirán obtener los mejores resultados para el próximo clclo de cosecha:
 
 Cuando tu terreno o parcela está rodeado de otros terrenos la semilla que tienes que seleccionar debe ser en el centro del terreno para evitar la contaminación que está presente en las orillas debido a el esparcimiento del polen de alrededor.
 
