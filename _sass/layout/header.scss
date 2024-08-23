@@ -20,3 +20,15 @@ header {
     }
   }
 }
+
+@media (max-width: 625px){
+  header{
+    flex-direction: column;
+    margin: 2rem 0;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+  }
+}
+
+
