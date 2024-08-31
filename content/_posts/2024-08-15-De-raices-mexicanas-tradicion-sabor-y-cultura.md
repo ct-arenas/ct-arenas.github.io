@@ -1,7 +1,7 @@
 ---
 title: De raíces mexicanas, tradición, sabor y cultura
 published: true
-img: /img/17.jpg
+img: /img/17.jpeg
 ---
 
 El conocimiento ecológico tradicional es un conjunto de conocimientos sofisticados sobre el entorno, la flora y la fauna, así como sobre el uso de diversas especies dentro de las poblaciones.
