@@ -16,3 +16,28 @@
     margin: 1em auto;
   }
 }
+
+.social-sharing{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px 0;
+}
+
+.copyMessage {
+  margin: 0 auto;
+  padding: 10px 5px;
+  text-align: center;
+  width: 50%;
+  display: none;
+  font-size: 20px;
+  color: #e69aa6;
+  margin-top: 10px;
+}
+
+@media (max-width: 625px) {
+  .social-sharing{
+    flex-direction: column;
+    gap: 10px;
+  }
+}

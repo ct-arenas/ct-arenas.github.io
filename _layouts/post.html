@@ -11,3 +11,19 @@ layout: default
 <article>
 {{ content }}
 </article>
+
+<div class="social-sharing">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-facebook"></i> Compartir en Facebook
+  </a>
+
+  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-twitter"></i> Compartir en Twitter
+  </a>
+
+  <a href="#" id="copyLink" onclick="copyToClipboard('{{ page.url | absolute_url }}', event)">
+    <i class="fas fa-link"></i> Copiar enlace
+  </a>  
+</div>
+<!-- Mensaje que se mostrará cuando se copie el enlace -->
+<p id="copyMessage" class="copyMessage">Enlace copiado al portapapeles</p>
